@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>PARTES DEL COMPUTADOR</titulo>
+        <autor>JAINER A SALAS LOZANO</autor>
+        <logo>images_(1).jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva3.JPG</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva4.JPG</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva5.JPG</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva6.JPG</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva7.JPG</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva8.JPG</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="MONITOR">250px-LG_L194WT-SF_LCD_monitor.jpg</cousa>
+              <cousa nome="TORRE">31M2W-Q602L._AC_UF894,1000_QL80_.jpg</cousa>
+              <cousa nome="ALTAVOCES">images_(3).jpg</cousa>
+              <cousa nome="TECLADO">f3bb643dcd24141261324785d0c8523b.jpg</cousa>
+              <cousa nome="MOUSE O RATON">descarga_(1).jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <imaxe>images.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>51</tipo>
+              <valor>6</valor>
+              <peza imaxe="images_(3).jpg">1</peza>
+              <peza imaxe="istockphoto-159018386-612x612.jpg">2</peza>
+              <forma>1</forma>
+              <modo>1</modo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>35</tipo>
+              <forma>1</forma>
+              <completa>250px-LG_L194WT-SF_LCD_monitor.jpg</completa>
+              <completa>istockphoto-159018386-612x612.jpg</completa>
+              <completa>images_(3).jpg</completa>
+              <completa>descarga_(1).jpg</completa>
+              <completa>f3bb643dcd24141261324785d0c8523b.jpg</completa>
+        </paxina>
+    </libro>
+</lim>
